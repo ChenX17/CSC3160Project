@@ -7,8 +7,8 @@ There are three evaluation metrics for accent conversion system:
 ### Accentedness
 
 For the accentedness rating metric, listeners were instructed to rate every sentence using 9-point Likert scales(sometimes 5-point scale).
-- 1-no source accent, 
-- 9-strong target accent.
+- 1-no source accent
+- 9-strong target accent
 
 ### Acoustic quality and naturalness
 
