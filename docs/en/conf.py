@@ -90,15 +90,11 @@ html_theme_path = [pytorch_sphinx_theme.get_html_theme_path()]
 #
 html_theme_options = {
     'logo_url':
-    'https://mmclassification.readthedocs.io/en/latest/',
+    'https://csc3160project.readthedocs.io/en/latest/',
     'menu': [
         {
             'name': 'Course Homepage',
             'url': 'https://drwuz.com/CSC3160/'
-        },
-        {
-            'name': 'GitHub',
-            'url': 'https://github.com/open-mmlab/mmclassification'
         },
         {
             'name':
@@ -118,6 +114,10 @@ html_theme_options = {
                 },
             ]
         },
+        {
+            'name': 'GitHub',
+            'url': 'https://github.com/ChenX17/CSC3160Project'
+        },
     ],
     # Specify the language of shared menu
     'menu_lang':
@@ -134,7 +134,7 @@ html_js_files = ['js/custom.js']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'mmclsdoc'
+htmlhelp_basename = 'csc3160projectdoc'
 
 # -- Options for LaTeX output ------------------------------------------------
 
@@ -173,7 +173,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'mmcls.tex', 'MMClassification Documentation', author,
+    (master_doc, 'csc3160project.tex', 'CSC3160 Project Documentation', author,
      'manual'),
 ]
 
@@ -181,7 +181,7 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [(master_doc, 'mmcls', 'MMClassification Documentation', [author],
+man_pages = [(master_doc, 'csc3160project', 'CSC3160 Project Documentation', [author],
               1)]
 
 # -- Options for Texinfo output ----------------------------------------------
@@ -190,8 +190,8 @@ man_pages = [(master_doc, 'mmcls', 'MMClassification Documentation', [author],
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'mmcls', 'MMClassification Documentation', author, 'mmcls',
-     'OpenMMLab image classification toolbox and benchmark.', 'Miscellaneous'),
+    (master_doc, 'csc3160project', 'CSC3160 Project Documentation', author, 'csc3160project',
+     'CSC3160 Project Documentation.', 'Miscellaneous'),
 ]
 
 # -- Options for Epub output -------------------------------------------------
