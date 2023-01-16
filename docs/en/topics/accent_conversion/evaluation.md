@@ -24,8 +24,8 @@ Audio quality and naturalness are rated on a five-point scale in the MOS test, a
 
 For the voice similarity metric, listeners were also asked to rate their confidence level on a 7-point scale(sometimes 5-point scale). They were instructed to only focus on voice similarity while ignoring others.
 
-- 1-not at all confident
-- 7-extremely confident
+- 1-not at all confident that two samples are from the same speaker
+- 7-extremely confident that two samples are from the same speaker
 
 ## How to Evaluate?
 

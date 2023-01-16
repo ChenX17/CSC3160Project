@@ -17,7 +17,7 @@ As the Cambridge dictionary shows, **accent** is the way in which people in a pa
 
 
 ## What is Accent Conversion ?
-Accent conversion aims to transform the accent of speech while preserving the speaker timbre(who is speaking) and content(it means what is spoken). 
+Accent conversion aims to transform the accent of speech while preserving the speaker timbre(who is speaking) and content(what is spoken). 
 
 ## Accent Converssion Example
 
