@@ -17,9 +17,9 @@ You can switch between Chinese and English documentation in the lower-left corne
    
    topics/accent_conversion/preliminary.md
    topics/accent_conversion/related_work.md
-   topics/accent_conversion/benchmarks.md
+   topics/accent_conversion/datasets.md
+   topics/accent_conversion/baselines.md
    topics/accent_conversion/evaluation.md
-   topics/accent_conversion/tools.md
    projects/accent_conversion/research_directions.md
    
 .. toctree::
