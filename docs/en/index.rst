@@ -27,8 +27,7 @@ You can switch between Chinese and English documentation in the lower-left corne
    :caption: VoiceMOS Challenge
    :glob:
 
-   topics/speech_metrics/preliminary.md
-   topics/speech_metrics/benchmark_evaluation.md
+   topics/speech_metrics/introduction.md
    topics/speech_metrics/related_works.md
    topics/speech_metrics/project_direction.md
    topics/speech_metrics/guideline.md
